@@ -23,6 +23,7 @@ To set up the Git command line, follow [these instructions](https://help.github.
 3. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 4. [Git Cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 5. [GitHub Guides](https://guides.github.com/). Use these guides to continue practicing GitHub
+6. [Git form the bottom up(pdf)](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 
 ## Practice repositories
 We have two repositories that we will use to practice Forking and Collaboration.
